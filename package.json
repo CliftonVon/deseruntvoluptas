@@ -1,0 +1,49 @@
+{
+  "name": "deseruntvoluptas",
+  "version": "1.0.0",
+  "description": "Idiomatic TS array, object utils, Option, Result monads",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "all.js",
+    "all.d.ts",
+    "transform.js",
+    "transform.d.ts",
+    "array",
+    "object",
+    "function",
+    "option",
+    "result"
+  ],
+  "dependencies": {
+    "immupdate": "1.1.0"
+  },
+  "devDependencies": {
+    "typescript": "2.4.1",
+    "mocha": "3.0.2",
+    "expect": "1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonVon/deseruntvoluptas.git"
+  },
+  "author": "AlessandraConroy",
+  "keywords": [
+    "ipsum",
+    "nisi",
+    "quis",
+    "harum",
+    "qui",
+    "facere",
+    "dicta",
+    "quaerat",
+    "aut",
+    "qui"
+  ],
+  "bugs": {
+    "url": "https://github.com/CliftonVon/deseruntvoluptas.git/issues"
+  },
+  "homepage": "https://github.com/CliftonVon/deseruntvoluptas.git"
+}
